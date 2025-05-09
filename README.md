@@ -20,12 +20,6 @@
    Step 6 : Stop.
 
 ## Program :
-
-```
-Developed By:Simon Malachi S
-Register no:212224040318
-```
-
 ```
 #include<stdio.h> 
 #include<math.h> 
